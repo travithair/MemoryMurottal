@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="top|center"
+	android:orientation="vertical">
+
+	<android.support.v7.widget.SearchView
+		android:layout_height="wrap_content"
+		android:text="Text"
+		android:layout_width="wrap_content"
+		android:id="@+id/mainSearchView"
+		android:layout_centerInParent="true"
+		android:layout_alignParentTop="true"
+		android:layout_marginTop="10dp"/>
+
+	<android.support.v7.widget.RecyclerView
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:layout_below="@id/mainSearchView"
+		android:id="@+id/mainList"/>
+
+</RelativeLayout>
+

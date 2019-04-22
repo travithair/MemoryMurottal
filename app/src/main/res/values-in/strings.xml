@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vitha_app_name">Memmory Murottal</string>
+    <string name="search_hint">Cari...</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    <string name="cancel">Batal</string>
+    <string name="prefs_alert_message">Pengaturan di ubah !</string>
+    <string name="enable_settings">Hidupkan Pengaturan</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="from_verse">Dari Ayat :</string>
+    <string name="to_verse">Sampai Ayat :</string>
+    <string name="repeat_for">Ulangi :</string>
+    <string name="reciter">Qori :</string>
+    <string name="spin_no_repeat">Tanpa Pengulangan</string>
+    <string name="spin_stop_manually">Berhenti Manual</string>
+
+    <string name="menu_language">Bahasa</string>
+    <string name="lang_id">Indonesia</string>
+    <string name="lang_en">Inggris</string>
+</resources>
